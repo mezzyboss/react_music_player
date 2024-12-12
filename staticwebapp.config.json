@@ -8,6 +8,7 @@
   ],
   "mimeTypes": {
     ".js": "application/javascript",
-    ".mjs": "application/javascript"
+    ".mjs": "application/javascript",
+    ".cjs": "application/javascript"
   }
 }
