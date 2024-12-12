@@ -11,7 +11,7 @@ export default defineConfig({
   ],
   build: {
     rollupOptions: {
-      input: 'dist/index.html',
+      input: './index.html',
       output: {
         entryFileNames: 'assets/[name]-[hash].js',
         chunkFileNames: 'assets/[name]-[hash].js',
