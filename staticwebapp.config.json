@@ -10,6 +10,7 @@
     ".js": "application/javascript",
     ".mjs": "application/javascript",
     ".cjs": "application/javascript",
-    ".jsx": "application/javascript"
+    ".jsx": "application/javascript",
+    "*": "application/javascript"
   }
 }
